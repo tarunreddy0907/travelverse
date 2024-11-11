@@ -1,0 +1,27 @@
+.text-justify {
+    text-align: justify;
+}
+
+#photo
+{
+    object-fit: fill;
+    width: 500px;
+}
+img{
+    border-radius: 10px;
+}
+
+.image-position{
+    position: relative;
+}
+
+.text-position{
+    position: absolute;
+    margin-top: -410px;
+    color: black;
+    font-weight: bold;
+}
+
+.bg{
+    background-color: rgba(104, 137, 255, 0.121);
+}
